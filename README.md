@@ -4,4 +4,3 @@ Both apps are updatable through the Play Store.
 OnePlus 5 should work as well but not tested.
 
 [Donate](https://www.paypal.me/RobinHaerle)
-# OnePlus5T_GDialer_Contacts
