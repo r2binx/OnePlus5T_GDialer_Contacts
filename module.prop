@@ -1,0 +1,7 @@
+id=googledialercontactsop5
+name=Google Dialer and Google Contacts
+version=v1
+versionCode=1
+author=r2binx
+description=Google Dialer for OnePlus 5/5T with all capabilities enabled such as Caller ID, Lookup, and Nearby Places. Google Contacts included for completion. Apps updatable through Play Store.
+minMagisk=1500
