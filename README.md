@@ -4,7 +4,7 @@ Both apps are updatable through the Play Store.
 OnePlus 5 should work as well but is not tested.
 
 ## Instructions
-- Permissions must be enabled for the Dialer app in setting.
+- Permissions for the Dialer app have to be enabled manually in settings.
 
 ## Changelog
 
